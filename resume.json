@@ -143,7 +143,7 @@
     {
       "summary": "urlwiz.io is a search engine for domains that are for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
       "website": "https://urlwiz.io/",
-      "name": "Domain Wizard",
+      "name": "URL Wizard",
       "pinned": true,
       "position": "Founder",
       "startDate": "2024-09-01",
@@ -165,7 +165,10 @@
       "position": "Founder",
       "startDate": "2022-09-01",
       "highlights": [
-        "Rapid Prototypy Development & market validation of digital products & services",
+        "Homepage built with astro.js, react and tailwindcss",
+        "CI/CD workflow using Github Actions",
+        "Deployed on Cloudflare Pages",
+        "Rapid Prototype Development & market validation of digital products & services",
         "Infrastructure monitoring & maintenance",
         "Consulting & support for clients in the implementation of digital solutions",
         "Data Analysis & Machine Learning",
