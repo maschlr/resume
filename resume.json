@@ -36,45 +36,80 @@
       "institution": "Technische Hochschule Mittelhessen - University of Applied Sciences"
     }
   ],
-  "certificates": [{
-    "name": "Mastering Design Thinking in Organizations",
-    "date": "2020-10-26",
-    "issuer": "Company",
-    "url": "https://open.hpi.de/verify/xevaz-zuvec-susud-filul-buhub"
-  },{
-    "name": "Tackling the Challenges of Big Data",
-    "date": "2014-12-01",
-    "issuer": "Massachusetts Institute of Technology",
-    "url": "https://drive.google.com/file/d/0ByYvUXXE_8PvSUZUeVhMMkxsUmc/view?usp=sharing&resourcekey=0-p_LWfxha7iigPeqFCKXzwA"
-  }],
-  "publications": [{
-    "name": "Simulation of a solar air heater with built-in thermal storage",
-    "publisher": "XV Congreso Latinoamericano de Control Automático",
-    "releaseDate": "2012-10-26"
-  }],
-  "languages": [{
-    "language": "German",
-    "fluency": "Native speaker"
-  },{
-    "language": "English",
-    "fluency": "Fluent"
-  },{
-    "language": "Spanish",
-    "fluency": "Advanced"
-  }],
+  "certificates": [
+    {
+      "name": "Mastering Design Thinking in Organizations",
+      "date": "2020-10-26",
+      "issuer": "Company",
+      "url": "https://open.hpi.de/verify/xevaz-zuvec-susud-filul-buhub"
+    },
+    {
+      "name": "Tackling the Challenges of Big Data",
+      "date": "2014-12-01",
+      "issuer": "Massachusetts Institute of Technology",
+      "url": "https://drive.google.com/file/d/0ByYvUXXE_8PvSUZUeVhMMkxsUmc/view?usp=sharing&resourcekey=0-p_LWfxha7iigPeqFCKXzwA"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Simulation of a solar air heater with built-in thermal storage",
+      "publisher": "XV Congreso Latinoamericano de Control Automático",
+      "releaseDate": "2012-10-26"
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced"
+    }
+  ],
   "skills": [
     {
-      "keywords": ["Python", "Node", "Deno", "C/C++", "Rust", "MongoDB", "Postgres", "Redis", "Serverless"],
+      "keywords": [
+        "Python",
+        "Node",
+        "Deno",
+        "C/C++",
+        "Rust",
+        "MongoDB",
+        "Postgres",
+        "Redis",
+        "Serverless"
+      ],
       "level": "Senior",
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "Git/Github", "Cloudflare", "Deno Deploy", "Docker", "Google Cloud Platform"],
+      "keywords": [
+        "AWS",
+        "Git/Github",
+        "Cloudflare",
+        "Deno Deploy",
+        "Docker",
+        "Google Cloud Platform"
+      ],
       "level": "Senior",
       "name": "Devops"
     },
     {
-      "keywords": ["pyTorch", "statsmodels", "scikit-learn", "matplotlib", "seaborn", "numpy", "OpenAI API", "Anthropic API"],
+      "keywords": [
+        "pyTorch",
+        "statsmodels",
+        "scikit-learn",
+        "matplotlib",
+        "seaborn",
+        "numpy",
+        "OpenAI API",
+        "Anthropic API"
+      ],
       "level": "Senior",
       "name": "Machine Learning / AI"
     },
@@ -98,7 +133,7 @@
       "startDate": "2023-08-01",
       "pinned": true,
       "highlights": [
-        "OpenAI Whisper/ChatGPT for voice message transcription, translation and summarization", 
+        "OpenAI Whisper/ChatGPT for voice message transcription, translation and summarization",
         "Telegram integration using python-telegram-bot and telethon for large file transfer using MTProto",
         "DeepL API for translation",
         "PostgreSQL and SQLAlchemy as the database backend",
@@ -113,7 +148,7 @@
       "position": "Founder",
       "startDate": "2024-09-01",
       "highlights": [
-        "OpenAI ChatGPT for computing embeddings for domains and project descriptions", 
+        "OpenAI ChatGPT for computing embeddings for domains and project descriptions",
         "Next.js frontend with TailwindCSS",
         "PostgreSQL with pgvector and SQLAlchemy as the database backend for fast vector search",
         "FastAPI backend",
@@ -130,7 +165,7 @@
       "position": "Founder",
       "startDate": "2022-09-01",
       "highlights": [
-        "Rapid Prototypy Development & market validation of digital products & services", 
+        "Rapid Prototypy Development & market validation of digital products & services",
         "Infrastructure monitoring & maintenance",
         "Consulting & support for clients in the implementation of digital solutions",
         "Data Analysis & Machine Learning",
@@ -146,7 +181,7 @@
       "pinned": true,
       "endDate": "2024-01-31",
       "highlights": [
-        "development & maintenance of custom-tailored client solutions", 
+        "development & maintenance of custom-tailored client solutions",
         "design, evaluation and implementation of code & database migrations with a focus on high-avalability and performance",
         "consulation and support of clients in the implementation of Odoo modules",
         "Backend: Python, PostgreSQL, Docker, Github, odoo.sh",
@@ -161,7 +196,7 @@
       "startDate": "2020-03-01",
       "endDate": "2020-11-30",
       "highlights": [
-        "development and evaluation of innovative business ideas", 
+        "development and evaluation of innovative business ideas",
         "agile methods, design thinking, lean startup",
         "entrepreneurship, evaluation of business models & ideas",
         "user-centric development based on export and customer interviews",
