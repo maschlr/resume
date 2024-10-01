@@ -68,7 +68,7 @@
       "name": "Backend"
     },
     {
-      "keywords": ["AWS", "Git/Github", "Deno Deploy", "Docker", "Google Cloud Platform"],
+      "keywords": ["AWS", "Git/Github", "Cloudflare", "Deno Deploy", "Docker", "Google Cloud Platform"],
       "level": "Senior",
       "name": "Devops"
     },
@@ -100,6 +100,22 @@
         "Telegram integration using python-telegram-bot and telethon for large file transfer using MTProto",
         "DeepL API for translation",
         "PostgreSQL and SQLAlchemy as the database backend",
+        "CI/CD workflow using Github Actions"
+      ]
+    },
+    {
+      "summary": "urlwiz.io is a search engine for domains that are for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
+      "website": "https://urlwiz.io/",
+      "name": "Domain Wizard",
+      "position": "Founder",
+      "startDate": "2024-09-01",
+      "highlights": [
+        "OpenAI ChatGPT for computing embeddings for domains and project descriptions", 
+        "Next.js frontend with TailwindCSS",
+        "PostgreSQL with pgvector and SQLAlchemy as the database backend for fast vector search",
+        "FastAPI backend",
+        "Stripe payment integration",
+        "Highly memory efficient ETL pipeline for updating the domain database",
         "CI/CD workflow using Github Actions"
       ]
     },
