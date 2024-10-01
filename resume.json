@@ -75,7 +75,7 @@
     {
       "keywords": ["pyTorch", "statsmodels", "scikit-learn", "matplotlib", "seaborn", "numpy", "OpenAI API", "Anthropic API"],
       "level": "Senior",
-      "name": "Machine Learning"
+      "name": "Machine Learning / AI"
     },
     {
       "keywords": [
@@ -100,7 +100,37 @@
         "Telegram integration using python-telegram-bot and telethon for large file transfer using MTProto",
         "DeepL API for translation",
         "PostgreSQL and SQLAlchemy as the database backend",
-        "CI/CD workflow using Github Actions for continuous integration"
+        "CI/CD workflow using Github Actions"
+      ]
+    },
+    {
+      "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community version and a feature-rich enterprise version available.",
+      "website": "https://odoo.com",
+      "name": "Odoo - Professional Services",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-04-01",
+      "endDate": "2024-01-31",
+      "highlights": [
+        "development & maintenance of custom-tailored client solutions", 
+        "design, evaluation and implementation of code & database migrations with a focus on high-avalability and performance",
+        "consulation and support of clients in the implementation of Odoo modules",
+        "Backend: Python, PostgreSQL, Docker, Github, odoo.sh",
+        "Frontend: Javascript, HTML, CSS, XML, QWeb"
+      ]
+    }
+    {
+      "summary": "Imagine2030 is a platform for people who want to develop solutions for the climate crisis - with a focus on sustainable mobility and renewable energies.",
+      "website": "https://www.linkedin.com/company/imagine2030-platform/",
+      "name": "Imagine 2030 mobility accelerator",
+      "position": "Startup Co-Founder",
+      "startDate": "2020-03-01",
+      "endDate": "2020-11-30",
+      "highlights": [
+        "development and evaluation of innovative business ideas", 
+        "agile methods, design thinking, lean startup",
+        "entrepreneurship, evaluation of business models & ideas",
+        "user-centric development based on export and customer interviews",
+        "presentation and communication"
       ]
     }
   ],
