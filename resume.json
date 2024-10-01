@@ -5,6 +5,7 @@
   "basics": {
     "name": "Marten Schlüter",
     "label": "Full Stack Software & Energy Systems Engineer",
+    "summary": "Born in Germany, I'm a global citizen. I'm a Full Stack Software Engineer with a background in Energy Systems Engineering. I have experience in developing and maintaining custom-tailored client solutions, design, evaluation and implementation of code & database migrations with a focus on high-availability and performance. I have a strong focus on backend development and DevOps, but I also have experience in frontend development and machine learning. I'm passionate about using software to provide efficient solutions.",
     "image": "https://avatars.githubusercontent.com/u/1927667",
     "picture": "https://avatars.githubusercontent.com/u/1927667",
     "website": "https://abilit.ee",
@@ -95,6 +96,7 @@
       "name": "summar.ee",
       "position": "Founder",
       "startDate": "2023-08-01",
+      "pinned": true,
       "highlights": [
         "OpenAI Whisper/ChatGPT for voice message transcription, translation and summarization", 
         "Telegram integration using python-telegram-bot and telethon for large file transfer using MTProto",
@@ -107,6 +109,7 @@
       "summary": "urlwiz.io is a search engine for domains that are for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
       "website": "https://urlwiz.io/",
       "name": "Domain Wizard",
+      "pinned": true,
       "position": "Founder",
       "startDate": "2024-09-01",
       "highlights": [
@@ -120,11 +123,27 @@
       ]
     },
     {
+      "summary": "abilit.ee is global company based in Estonia that provides digital services to clients worldwide. We are a team of experienced professionals who are passionate about technology and innovation.",
+      "website": "https://abilit.ee/",
+      "name": "abilit.ee",
+      "pinned": true,
+      "position": "Founder",
+      "startDate": "2022-09-01",
+      "highlights": [
+        "Rapid Prototypy Development & market validation of digital products & services", 
+        "Infrastructure monitoring & maintenance",
+        "Consulting & support for clients in the implementation of digital solutions",
+        "Data Analysis & Machine Learning",
+        "Deep Domain knowledge in Energy Systems Engineering",
+      ]
+    },
+    {
       "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community version and a feature-rich enterprise version available.",
       "website": "https://odoo.com",
       "name": "Odoo - Professional Services",
       "position": "Senior Software Engineer",
       "startDate": "2022-04-01",
+      "pinned": true,
       "endDate": "2024-01-31",
       "highlights": [
         "development & maintenance of custom-tailored client solutions", 
