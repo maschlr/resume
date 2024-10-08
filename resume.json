@@ -32,7 +32,7 @@
       "endDate": "2007-09-01",
       "startDate": "2013-05-31",
       "area": "Energy Systems Engineering",
-      "studyType": "Masters",
+      "studyType": "Masters (Dipl.-Ing.)",
       "institution": "Technische Hochschule Mittelhessen - University of Applied Sciences"
     }
   ],
@@ -204,6 +204,45 @@
         "entrepreneurship, evaluation of business models & ideas",
         "user-centric development based on export and customer interviews",
         "presentation and communication"
+      ]
+    },
+    {
+      "summary": "R+S is a consulting company based in Munich that provides engineering services in the field of technical infractructe. The client base includes the public and private sector",
+      "website": "https://www.runds.de/",
+      "name": "Rücker + Schindele Beratende Ingenieure ",
+      "position": "Project Manager",
+      "startDate": "2016-06-01",
+      "endDate": "2019-12-31",
+      "highlights": [
+        "conceptualizing, design, planning and implementation of an automation und predictive maintenance strategy in a wastewater treatment plant  (project volume 1,8 Mio. €)",
+        "conceptualizing, design, planning and implementation of the retrofit of an emergency power system 2 x 2.500 kVA in Berlin (project volume 3,2 Mio. €)",
+        "implementation of retrofit of energy & control systems in the Engelbergbasistunnel, Stuttgart (project volume 3.8 Mio. €)"
+      ]
+    },
+    {
+      "summary": "energicos in an innovative provider of sustainable energy solutions. The company is based in Berlin and has a strong focus on data-driven energy efficiency and renewable energies.",
+      "website": "https://energicos.de",
+      "name": "energicos",
+      "position": "Assistant head of Product Development",
+      "startDate": "2014-04-01",
+      "endDate": "2016-02-28",
+      "highlights": [
+        "development of ETL pipelines for energy data",
+        "design and implementation of Outlier Detection algorithms for predictive maintenance application",
+        "Implementation of Linear Regression models for optimal equipment sizing based on long term operational data",
+        "Python, seaborn, statsmodels, pandas, numpy, scikit-learn, PostgreSQL, d3.js"
+      ]
+    },
+    {
+      "summary": "Borsig is a Berlin based producer of industrial heat exchangers and pressure vessels. The companies history reaches back 185 years and serves clients worldwide.",
+      "website": "https://www.borsig.de/en/borsig-process-heat-exchanger-gmbh/",
+      "name": "Borsig Process Heat Exchanger GmbH",
+      "position": "Project Engineer",
+      "startDate": "2013-08-01",
+      "endDate": "2014-03-31",
+      "highlights": [
+        "calculation of heat exchangers according to international codes",
+        "implemetation of a design & calculation engineering software for heat-echangers based on different international codes in C#"
       ]
     }
   ],
