@@ -1,9 +1,12 @@
-name: Update Resume Gist
+name: Update Resume (Gist + Cloudflare deployment)
 
-on: push
+on: 
+  push:
+    branches:
+      - master
 
 jobs:
-  update-resume-gist:
+  update-resume:
     runs-on: ubuntu-latest 
     steps:
     - name: Checkout Repository
@@ -15,3 +18,8 @@ jobs:
         token: ${{ secrets.TOKEN }}
         gist_id: dc54abab3dc20c8e15825787d3f4fc82
         file_path: resume.json
+    - name: Trigger Cloudflare Pages Build
+      run: |
+        curl -X POST "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CF_ACCOUNT_ID }}/pages/projects/${{ secrets.CF_PROJECT_ID }}/deployments" \
+        -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+        -H "Content-Type: application/json"
