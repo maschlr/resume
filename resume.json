@@ -98,11 +98,11 @@
         "Google Cloud Platform"
       ],
       "level": "Senior",
-      "name": "Devops"
+      "name": "DevOps"
     },
     {
       "keywords": [
-        "pyTorch",
+        "PyTorch",
         "statsmodels",
         "scikit-learn",
         "matplotlib",
@@ -127,7 +127,7 @@
   ],
   "work": [
     {
-      "summary": "summar.ee makes voice messages communication easy and convenient. It transcribes, translates and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
+      "summary": "summar.ee makes voice message communication easy and convenient. It transcribes, translates, and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
       "website": "https://summar.ee/",
       "name": "summar.ee",
       "position": "Founder",
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "summary": "urlwiz.io is a search engine for domains that are for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
+      "summary": "urlwiz.io is a search engine for domains for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
       "website": "https://urlwiz.io/",
       "name": "URL Wizard",
       "pinned": true,
@@ -170,7 +170,7 @@
         "Infrastructure monitoring & maintenance",
         "Consulting & support for clients in the implementation of digital solutions",
         "Data Analysis & Machine Learning",
-        "Deep Domain knowledge in Energy Systems Engineering",
+        "Deep domain knowledge in Energy Systems Engineering",
         "(Homepage built with astro.js, React and tailwindcss; CI/CD workflow using Github Actions; Deployed on Cloudflare Pages)"
       ]
     },
@@ -183,9 +183,9 @@
       "pinned": true,
       "endDate": "2024-01-31",
       "highlights": [
-        "development & maintenance of custom-tailored client solutions",
-        "design, evaluation and implementation of code & database migrations with a focus on high-avalability and performance",
-        "consulation and support of clients in the implementation of Odoo modules",
+        "Development & maintenance of custom-tailored client solutions",
+        "Design, evaluation, and implementation of code & database migrations with a focus on high availability and performance",
+        "Consultation and support of clients in the implementation of Odoo modules",
         "Backend: Python, PostgreSQL, Docker, Github, odoo.sh",
         "Frontend: Javascript, HTML, CSS, XML, QWeb"
       ]
@@ -206,34 +206,34 @@
       ]
     },
     {
-      "summary": "R+S is a consulting company based in Munich that provides engineering services in the field of technical infrastructure. The client base includes the public and private sector",
+      "summary": "R+S is a consulting company based in Munich that provides engineering services in technical infrastructure. The client base includes the public and private sectors",
       "website": "https://www.runds.de/",
       "name": "Rücker + Schindele Beratende Ingenieure ",
       "position": "Project Manager",
       "startDate": "2016-06-01",
       "endDate": "2019-12-31",
       "highlights": [
-        "conceptualizing, design, planning and implementation of an automation und predictive maintenance strategy in a wastewater treatment plant  (project volume 1,8 Mio. €)",
+        "conceptualizing, design, planning and implementation of an automation and predictive maintenance strategy in a wastewater treatment plant  (project volume 1,8 Mio. €)",
         "conceptualizing, design, planning and implementation of the retrofit of an emergency power system 2 x 2.500 kVA in Berlin (project volume 3,2 Mio. €)",
         "implementation of retrofit of energy & control systems in the Engelbergbasistunnel, Stuttgart (project volume 3.8 Mio. €)"
       ]
     },
     {
-      "summary": "energicos in an innovative provider of sustainable energy solutions. The company is based in Berlin and has a strong focus on data-driven energy efficiency and renewable energies.",
+      "summary": "energicos is an innovative provider of sustainable energy solutions. The company is based in Berlin and has a strong focus on data-driven energy efficiency and renewable energies.",
       "website": "https://energicos.de",
       "name": "energicos",
       "position": "Assistant head of Product Development",
       "startDate": "2014-04-01",
       "endDate": "2016-02-28",
       "highlights": [
-        "development of ETL pipelines for energy data",
-        "design and implementation of Outlier Detection algorithms for predictive maintenance application",
-        "Implementation of Linear Regression models for optimal equipment sizing based on long term operational data",
+        "Development of ETL pipelines for energy data",
+        "Design and implementation of Outlier Detection algorithms for predictive maintenance application",
+        "Implementation of Linear Regression models for optimal equipment sizing based on long-term operational data",
         "Python, seaborn, statsmodels, pandas, numpy, scikit-learn, PostgreSQL, d3.js"
       ]
     },
     {
-      "summary": "Borsig is a Berlin based producer of industrial heat exchangers and pressure vessels. The companies history reaches back 185 years. It serves clients worldwide.",
+      "summary": "Borsig is a Berlin-based producer of industrial heat exchangers and pressure vessels. The company's history reaches back 185 years. It serves clients worldwide.",
       "website": "https://www.borsig.de/en/borsig-process-heat-exchanger-gmbh/",
       "name": "Borsig Process Heat Exchanger GmbH",
       "position": "Project Engineer",
@@ -241,7 +241,7 @@
       "endDate": "2014-03-31",
       "highlights": [
         "calculation of heat exchangers according to international codes",
-        "implemetation of a design & calculation engineering software for heat-echangers based on different international codes in C#"
+        "Implementation of a design & calculation engineering software for heat-exchangers based on different international codes in C#"
       ]
     }
   ],
