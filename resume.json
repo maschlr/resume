@@ -64,7 +64,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Proficient"
     },
     {
       "language": "Spanish",
@@ -79,6 +79,7 @@
         "Deno",
         "C/C++",
         "Rust",
+        "C#",
         "MongoDB",
         "Postgres",
         "Redis",
@@ -126,7 +127,7 @@
   ],
   "work": [
     {
-      "summary": "summar.ee makes voice messages communication easy and convenient. It trascribes, translates and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
+      "summary": "summar.ee makes voice messages communication easy and convenient. It transcribes, translates and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
       "website": "https://summar.ee/",
       "name": "summar.ee",
       "position": "Founder",
@@ -135,7 +136,7 @@
       "highlights": [
         "OpenAI Whisper/ChatGPT for voice message transcription, translation and summarization",
         "Telegram integration using python-telegram-bot and telethon for large file transfer using MTProto",
-        "DeepL API for translation",
+        "DeepL API integration for translation",
         "PostgreSQL and SQLAlchemy as the database backend",
         "CI/CD workflow using Github Actions"
       ]
@@ -158,25 +159,23 @@
       ]
     },
     {
-      "summary": "abilit.ee is global company based in Estonia that provides digital services to clients worldwide. We are a team of experienced professionals who are passionate about technology and innovation.",
+      "summary": "abilit.ee is a software engineering agency based in Estonia that provides services to clients worldwide. We are a team of experienced professionals who are passionate about technology and innovation.",
       "website": "https://abilit.ee/",
       "name": "abilit.ee",
       "pinned": true,
       "position": "Founder",
       "startDate": "2022-09-01",
       "highlights": [
-        "Homepage built with astro.js, react and tailwindcss",
-        "CI/CD workflow using Github Actions",
-        "Deployed on Cloudflare Pages",
         "Rapid Prototype Development & market validation of digital products & services",
         "Infrastructure monitoring & maintenance",
         "Consulting & support for clients in the implementation of digital solutions",
         "Data Analysis & Machine Learning",
-        "Deep Domain knowledge in Energy Systems Engineering"
+        "Deep Domain knowledge in Energy Systems Engineering",
+        "(Homepage built with astro.js, React and tailwindcss; CI/CD workflow using Github Actions; Deployed on Cloudflare Pages)"
       ]
     },
     {
-      "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community version and a feature-rich enterprise version available.",
+      "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community edition and a feature-rich enterprise edition available.",
       "website": "https://odoo.com",
       "name": "Odoo - Professional Services",
       "position": "Senior Software Engineer",
@@ -207,7 +206,7 @@
       ]
     },
     {
-      "summary": "R+S is a consulting company based in Munich that provides engineering services in the field of technical infractructe. The client base includes the public and private sector",
+      "summary": "R+S is a consulting company based in Munich that provides engineering services in the field of technical infrastructure. The client base includes the public and private sector",
       "website": "https://www.runds.de/",
       "name": "Rücker + Schindele Beratende Ingenieure ",
       "position": "Project Manager",
@@ -234,7 +233,7 @@
       ]
     },
     {
-      "summary": "Borsig is a Berlin based producer of industrial heat exchangers and pressure vessels. The companies history reaches back 185 years and serves clients worldwide.",
+      "summary": "Borsig is a Berlin based producer of industrial heat exchangers and pressure vessels. The companies history reaches back 185 years. It serves clients worldwide.",
       "website": "https://www.borsig.de/en/borsig-process-heat-exchanger-gmbh/",
       "name": "Borsig Process Heat Exchanger GmbH",
       "position": "Project Engineer",
