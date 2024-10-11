@@ -247,20 +247,15 @@
   ],
   "interests": [
     {
-      "name": "Reading / Writing"
+      "name": "Reading",
+      "keywords": ["Science-fiction", "History", "Philosophy"]
     },
     {
       "name": "Sports",
-      "keywords": ["Surfing", "Running"]
+      "keywords": ["Surfing", "Running", "Hiking"]
     },
     {
       "name": "Travelling"
-    },
-    {
-      "name": "Open Source"
-    },
-    {
-      "name": "Nature"
     }
   ]
 }
