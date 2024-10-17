@@ -142,7 +142,7 @@
       ]
     },
     {
-      "summary": "urlwiz.io is a search engine for domains for sale. It uses vector search to find the best results in over 1000000 listings based on a project description",
+      "summary": "urlwiz.io is a search engine for domains for sale. It uses vector search on text embeddings to find the best URLs based on a project description",
       "website": "https://urlwiz.io/",
       "name": "URL Wizard",
       "pinned": true,
@@ -154,7 +154,7 @@
         "PostgreSQL with pgvector and SQLAlchemy as the database backend for fast vector search",
         "FastAPI backend",
         "Stripe payment integration",
-        "Highly memory efficient ETL pipeline for updating the domain database",
+        "Highly memory efficient ETL pipeline to process > 1.000.000 daily URL's on < 1GB RAM",
         "CI/CD workflow using Github Actions"
       ]
     },
@@ -178,7 +178,7 @@
       "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community edition and a feature-rich enterprise edition available.",
       "website": "https://odoo.com",
       "name": "Odoo - Professional Services",
-      "position": "Senior Software Engineer",
+      "position": "Senior full stack developer",
       "startDate": "2022-04-01",
       "pinned": true,
       "endDate": "2024-01-31",
@@ -186,6 +186,7 @@
         "Development & maintenance of custom-tailored client solutions",
         "Design, evaluation, and implementation of code & database migrations with a focus on high availability and performance",
         "Consultation and support of clients in the implementation of Odoo modules",
+        ">1000 PR reviews completed",
         "Backend: Python, PostgreSQL, Docker, Github, odoo.sh",
         "Frontend: Javascript, HTML, CSS, XML, QWeb"
       ]
@@ -201,7 +202,7 @@
         "development and evaluation of innovative business ideas",
         "agile methods, design thinking, lean startup",
         "entrepreneurship, evaluation of business models & ideas",
-        "user-centric development based on export and customer interviews",
+        "user-centric development based on export and customer interviews (completed over 500 client interviews over the course of 6 months)",
         "presentation and communication"
       ]
     },
