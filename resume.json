@@ -142,11 +142,11 @@
       ]
     },
     {
-      "summary": "urlwiz.io is a search engine for domains for sale. It uses vector search on text embeddings to find the best URLs based on a project description",
+      "summary": "urlwiz.io helps people to instantly find available domains for their projects. It is a search engine that implements semantic search by leveraging vector similarity of text embeddings.",
       "website": "https://urlwiz.io/",
       "name": "URL Wizard",
       "pinned": true,
-      "position": "Founder / Senior Software Engineer",
+      "position": "Founder / Senior Data Engineer",
       "startDate": "2024-09-01",
       "highlights": [
         "OpenAI ChatGPT for computing embeddings for domains and project descriptions",
@@ -214,6 +214,7 @@
         "Development of ETL pipelines for energy data",
         "Design and implementation of Outlier Detection algorithms for predictive maintenance application",
         "Implementation of Linear Regression models for optimal equipment sizing based on long-term operational data",
+        "Design and implementation of a custom hardware platform to measure energy flows in buildings in real time",
         "Python, seaborn, statsmodels, pandas, numpy, scikit-learn, PostgreSQL, d3.js"
       ]
     },
