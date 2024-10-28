@@ -5,14 +5,14 @@
   "basics": {
     "name": "Marten Schlüter",
     "label": "Full Stack Software & Energy Systems Engineer",
-    "summary": "A global citizen with roots in Germany, a founder in Estonia, and a life between Panama and the US, I bring a diverse perspective to my work. I am a Full Stack Software Engineer with a degree in Energy Systems Engineering, specializing in developing and maintaining custom client solutions. My expertise lies in backend development and DevOps, complemented by experience in frontend development and machine learning. Driven by curiosity and a passion for efficiency, I thrive on creating software solutions that make a meaningful impact.",
+    "summary": "A global citizen with roots in Germany, a founder in Estonia, now living in the US, I bring a diverse perspective to my work. I am a Full Stack Software Engineer with a degree in Energy Systems Engineering, specializing in developing and maintaining data-driven applications. My expertise lies in data-heavy backend development and DevOps, complemented by experience in frontend development and machine learning. Driven by curiosity and a passion for efficiency, I thrive on creating software solutions that make a meaningful impact.",
     "image": "https://avatars.githubusercontent.com/u/1927667",
     "picture": "https://avatars.githubusercontent.com/u/1927667",
     "website": "https://abilit.ee",
     "email": "post@abilit.ee",
     "location": {
-      "city": "Panama City",
-      "countryCode": "PA"
+      "city": "Miami, FL",
+      "countryCode": "US"
     },
     "profiles": [
       {
@@ -95,7 +95,7 @@
         "Cloudflare",
         "Deno Deploy",
         "Docker",
-        "Google Cloud Platform"
+        "Google Cloud Platform (GCP)"
       ],
       "level": "Senior",
       "name": "DevOps"
@@ -130,7 +130,7 @@
       "summary": "summar.ee makes voice message communication easy and convenient. It transcribes, translates, and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
       "website": "https://summar.ee/",
       "name": "summar.ee",
-      "position": "Founder",
+      "position": "Founder / Senior Software Engineer",
       "startDate": "2023-08-01",
       "pinned": true,
       "highlights": [
@@ -146,7 +146,7 @@
       "website": "https://urlwiz.io/",
       "name": "URL Wizard",
       "pinned": true,
-      "position": "Founder",
+      "position": "Founder / Senior Software Engineer",
       "startDate": "2024-09-01",
       "highlights": [
         "OpenAI ChatGPT for computing embeddings for domains and project descriptions",
@@ -159,26 +159,10 @@
       ]
     },
     {
-      "summary": "abilit.ee is a software engineering agency based in Estonia that provides services to clients worldwide. We are a team of experienced professionals who are passionate about technology and innovation.",
-      "website": "https://abilit.ee/",
-      "name": "abilit.ee",
-      "pinned": true,
-      "position": "Founder",
-      "startDate": "2022-09-01",
-      "highlights": [
-        "Rapid Prototype Development & market validation of digital products & services",
-        "Infrastructure monitoring & maintenance",
-        "Consulting & support for clients in the implementation of digital solutions",
-        "Data Analysis & Machine Learning",
-        "Deep domain knowledge in Energy Systems Engineering",
-        "(Homepage built with astro.js, React and tailwindcss; CI/CD workflow using Github Actions; Deployed on Cloudflare Pages)"
-      ]
-    },
-    {
       "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. Its flexible, user-friendly platform serves businesses of all sizes, with both a free community edition and a feature-rich enterprise edition available.",
       "website": "https://odoo.com",
       "name": "Odoo - Professional Services",
-      "position": "Senior full stack developer",
+      "position": "Senior Software Engineer",
       "startDate": "2022-04-01",
       "pinned": true,
       "endDate": "2024-01-31",
@@ -210,7 +194,7 @@
       "summary": "R+S is a consulting company based in Munich that provides engineering services in technical infrastructure. The client base includes the public and private sectors",
       "website": "https://www.runds.de/",
       "name": "Rücker + Schindele Beratende Ingenieure ",
-      "position": "Project Manager",
+      "position": "Senior Project Manager",
       "startDate": "2016-06-01",
       "endDate": "2019-12-31",
       "highlights": [
@@ -223,7 +207,7 @@
       "summary": "energicos is an innovative provider of sustainable energy solutions. The company is based in Berlin and has a strong focus on data-driven energy efficiency and renewable energies.",
       "website": "https://energicos.de",
       "name": "energicos",
-      "position": "Assistant head of Product Development",
+      "position": "Data Engineer",
       "startDate": "2014-04-01",
       "endDate": "2016-02-28",
       "highlights": [
@@ -237,12 +221,12 @@
       "summary": "Borsig is a Berlin-based producer of industrial heat exchangers and pressure vessels. The company's history reaches back 185 years. It serves clients worldwide.",
       "website": "https://www.borsig.de/en/borsig-process-heat-exchanger-gmbh/",
       "name": "Borsig Process Heat Exchanger GmbH",
-      "position": "Project Engineer",
+      "position": "Software Engineer",
       "startDate": "2013-08-01",
       "endDate": "2014-03-31",
       "highlights": [
-        "calculation of heat exchangers according to international codes",
-        "Implementation of a design & calculation engineering software for heat-exchangers based on different international codes in C#"
+        "Heat exchanger design according to various international codes",
+        "Design & Implementation of a software for creating & validating heat-exchanger designs based on various international codes in C#"
       ]
     }
   ],
