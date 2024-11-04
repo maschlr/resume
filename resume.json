@@ -29,8 +29,8 @@
   },
   "education": [
     {
-      "endDate": "2007-09-01",
-      "startDate": "2013-05-31",
+      "startDate": "2007-09-01",
+      "endDate": "2013-05-31",
       "area": "Energy Systems Engineering",
       "studyType": "Masters (Dipl.-Ing.)",
       "institution": "Technische Hochschule Mittelhessen - University of Applied Sciences"
@@ -125,7 +125,7 @@
       "name": "Frontend"
     }
   ],
-  "work": [
+  "projects": [
     {
       "summary": "summar.ee makes voice message communication easy and convenient. It transcribes, translates, and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
       "website": "https://summar.ee/",
@@ -157,7 +157,9 @@
         "Highly memory efficient ETL pipeline to process > 1.000.000 daily URL's on < 1GB RAM",
         "CI/CD workflow using Github Actions"
       ]
-    },
+    }
+  ],
+  "work": [
     {
       "summary": "Odoo is an open-source software company offering a modular suite of business applications, including ERP, CRM, e-commerce, and accounting. As a senior software engineer, my task was to help clients to integrate their business flows into odoo. By developing, maintaining and upgrading custom modules, I was able to apply deep knowledge about the framework and various platforms to guarantee & maximize robustness, availability, performance and customer satisfaction.",
       "website": "https://odoo.com",
