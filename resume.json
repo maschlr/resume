@@ -127,10 +127,9 @@
   ],
   "projects": [
     {
-      "summary": "summar.ee makes voice message communication easy and convenient. It transcribes, translates, and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
+      "description": "summar.ee makes voice message communication easy and convenient. It transcribes, translates, and summarizes voice messages using OpenAI's Whisper/ChatGPT and the DeepL API. The service is available on Telegram ",
       "website": "https://summar.ee/",
       "name": "summar.ee",
-      "position": "Founder / Senior Software Engineer",
       "startDate": "2023-08-01",
       "pinned": true,
       "highlights": [
@@ -142,11 +141,10 @@
       ]
     },
     {
-      "summary": "urlwiz.io helps people to instantly find available domains for their projects. It is a search engine that implements semantic search by leveraging vector similarity of text embeddings.",
+      "description": "urlwiz.io helps people to instantly find available domains for their projects. It is a search engine that implements semantic search by leveraging vector similarity of text embeddings.",
       "website": "https://urlwiz.io/",
       "name": "URL Wizard",
       "pinned": true,
-      "position": "Founder / Senior Data Engineer",
       "startDate": "2024-09-01",
       "highlights": [
         "OpenAI ChatGPT for computing embeddings for domains and project descriptions",
